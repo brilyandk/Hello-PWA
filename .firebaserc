@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "hellopwa-be11a",
+    "default": "hellopwa-be11a"
+  }
+}
